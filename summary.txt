@@ -1,0 +1,5 @@
+1.radial vibration signals acuried in a gearbox setup
+2. three conditions are taken in consideration 
+      	i.healthy
+	ii.chipped tooth
+	iii, three wor teeth
